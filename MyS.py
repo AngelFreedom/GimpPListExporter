@@ -4,7 +4,7 @@
 # a Plist Mac xml file type from layers of current image. 
 # The sprite Sheet generated is in png format. Alpha version.
 #
-# Copyright (C) 2015  Angelo Amalfitano (angelo_ski@libero.it)
+# Copyright (C) 2015  Angelo Amalfitano (angelo.amalf@gmail.com)
 #
 # 
 #
