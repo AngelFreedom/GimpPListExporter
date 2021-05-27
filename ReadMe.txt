@@ -29,7 +29,7 @@ Export Sprite Sheet
  Use:
   To export layer of image as Plist file goto in menu File-> Export Sprite Sheet..
   set the parameter Padding, Max sheet width, max sheet height etc.
-  Set the directory and the name of file press Save and GIMP produce two file 
+  Set the directory and the name of file press Save and GIMP produce three file 
   1) A png file sprite sheet.
   2) A file Plist with reference to image file.
   3) A file txt with reference to image file.
